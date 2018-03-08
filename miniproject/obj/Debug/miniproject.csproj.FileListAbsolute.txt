@@ -1,0 +1,11 @@
+c:\users\aniru\onedrive\documents\visual studio 2015\Projects\miniproject\miniproject\bin\Debug\miniproject.exe.config
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.csprojResolveAssemblyReference.cache
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.Basic_Operations.resources
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.Properties.Resources.resources
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.csproj.GenerateResource.Cache
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\bin\Debug\miniproject.exe
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\bin\Debug\miniproject.pdb
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.exe
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.pdb
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.Expenditure_Analysis.resources
+C:\Users\aniru\OneDrive\Documents\Visual Studio 2015\Projects\miniproject\miniproject\obj\Debug\miniproject.Modify_Record.resources
